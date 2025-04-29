@@ -3,13 +3,20 @@
 
 Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Software da UTFPR - Campus Cornélio Procópio. 
 
-Link do Padlet:
+Link do Padlet: https://padlet.com/rafaeltrevizan1/padlet-requisitos-m4hi5xqmfty6z5n6
 
 ## 1. Introdução
 
 ***1.1.  Nome do Grupo***
+**SAQA - Sistema Automatizado de Qualidade Alimentar**
 
-Indicar o nome e github dos integrantes do grupo
+| Nome                  | GitHub                                  |
+|-----------------------|------------------------------------------|
+| Felipe Gomes          | https://github.com/felipe-gomes0        |
+| João Vitor Romani     | https://github.com/joaovitorrom          |
+| Rafael Moraes         | https://github.com/trevizanrafael       |
+| Samuel Ueno           | https://github.com/SamuelUenoUTFPR       |
+| Werickson Souza       | https://github.com/Wericksonsd       |  
 
 ***1.2.  Nome do Sistema***
 
