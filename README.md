@@ -8,6 +8,7 @@ Link do Padlet: https://padlet.com/rafaeltrevizan1/padlet-requisitos-m4hi5xqmfty
 ## 1. Introdução
 
 ***1.1.  Nome do Grupo***
+
 **SAQA - Sistema Automatizado de Qualidade Alimentar**
 
 | Nome                  | GitHub                                  |
