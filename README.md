@@ -31,7 +31,15 @@ O público alvo do nosso Programa é donos de indústrias alimentícias.
 
 ***1.5. Descrição dos usuários***
 
-*<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
+|<sub>PERFIL</sub>|<sub>A</sub>|<sub>B</sub>|
+| :---: | :---: | :---: |
+|<sub>Função</sub>|<sub>Alunos/Professores</sub>|<sub>Bibliotecários</sub>|
+|<sub>Porcentagem de Usuários</sub>|<sub>95%</sub>|<sub>5%</sub>|
+|<sub>Faixa Etária</sub>|<sub>[17, 40]</sub>|<sub>[35, 58]</sub>|
+|<sub>Gênero</sub>|<sub>20% F, 80% M</sub>|<sub>60% F, 40% M</sub>|
+|<sub>Afinidade com a Tecnologia</sub>|<sub>83%</sub>|<sub>70%</sub>|
+|<sub>Frequência com que usará o sistema</sub>|<sub>Ocasionalmente</sub>|<sub>Diariamente</sub>|
+|<sub>Objetivo ao usar o sistema</sub>|<sub>Encontrar material de estudo</sub>|<sub>Gerenciar os livros da biblioteca</sub>|
 
 ***Personas:***
 
