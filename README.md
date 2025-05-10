@@ -8,7 +8,7 @@ Link do Padlet: https://padlet.com/rafaeltrevizan1/padlet-requisitos-m4hi5xqmfty
 ## 1. Introdução
 
 ***1.1.  Nome do Grupo***
-
+<h1 align="center">
 | Participantes         | GitHub                                  |
 |-----------------------|------------------------------------------|
 | Felipe Gomes          | https://github.com/felipe-gomes0        |
@@ -16,7 +16,7 @@ Link do Padlet: https://padlet.com/rafaeltrevizan1/padlet-requisitos-m4hi5xqmfty
 | Rafael Moraes         | https://github.com/trevizanrafael       |
 | Samuel Ueno           | https://github.com/SamuelUenoUTFPR       |
 | Werickson Souza       | https://github.com/Wericksonsd       |  
-
+</h1>
 ***1.2.  Nome do Sistema***
 
 SAQA - Sistema Automatizado de Qualidade Alimentar
