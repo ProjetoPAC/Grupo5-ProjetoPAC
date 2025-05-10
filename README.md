@@ -63,7 +63,47 @@ Este documento se destina aos arquitetos de software, engenheiros de software, t
 
 ***2.1. Requisitos Funcionais***
 
-*<Link, imagem, arquivo com os requisitos funcionais.>*
+# Requisitos Funcionais
+
+## RF1
+**O Sistema deve permitir o gerenciamento de dados de produtos e processos**,  
+**identificando claramente cada categoria (produto/processo) em interfaces e relatórios**.
+
+## RF2
+**O Sistema deve automatizar a coleta de dados do processo industrial**,  
+**por meio de integração com sensores/APIs de máquinas, sem intervenção manual**.
+
+## RF3
+**O Sistema deve enviar notificações para usuários cadastrados**,  
+**diariamente, caso parâmetros da produção estejam dentro dos limites pré-definidos**.
+
+## RF4
+**O Sistema deve enviar dados para webservices do governo**,  
+**diariamente, em formato compatível e com autenticação válida**.
+
+## RF5
+**O Sistema deve gerar relatórios de parâmetros dos processos**,  
+**com filtros por período, unidade industrial e métricas críticas**.
+
+## RF6
+**O Sistema deve armazenar histórico de todos os relatórios gerados**,  
+**com capacidade de busca e exportação para análise posterior**.
+
+## RF7
+**O Administrador deve definir permissões para usuários do sistema**,  
+**através de roles (ex: operador, gerente) e acesso a módulos específicos**.
+
+## RF8
+**O Sistema deve validar a integridade de parâmetros dos relatórios**,  
+**usando assinatura digital ou checksum para evitar manipulação**.
+
+## RF9
+**O Sistema deve monitorar simultaneamente múltiplas unidades industriais**,  
+**consolidando dados em um dashboard único**.
+
+## RF10
+**O Sistema deve garantir backup automático do histórico de dados e relatórios**,  
+**em ambientes redundantes (cloud/local) com política de retenção**.
 
 ***2.2. Requisitos Não Funcionais***
 
