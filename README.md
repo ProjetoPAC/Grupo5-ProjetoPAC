@@ -31,15 +31,15 @@ O público alvo do nosso Programa é donos de indústrias alimentícias.
 
 ***1.5. Descrição dos usuários***
 
-|<sub>PERFIL</sub>|<sub>A</sub>|<sub>B</sub>|
-| :---: | :---: | :---: |
-|<sub>Função</sub>|<sub>Alunos/Professores</sub>|<sub>Bibliotecários</sub>|
-|<sub>Porcentagem de Usuários</sub>|<sub>95%</sub>|<sub>5%</sub>|
-|<sub>Faixa Etária</sub>|<sub>[17, 40]</sub>|<sub>[35, 58]</sub>|
-|<sub>Gênero</sub>|<sub>20% F, 80% M</sub>|<sub>60% F, 40% M</sub>|
-|<sub>Afinidade com a Tecnologia</sub>|<sub>83%</sub>|<sub>70%</sub>|
-|<sub>Frequência com que usará o sistema</sub>|<sub>Ocasionalmente</sub>|<sub>Diariamente</sub>|
-|<sub>Objetivo ao usar o sistema</sub>|<sub>Encontrar material de estudo</sub>|<sub>Gerenciar os livros da biblioteca</sub>|
+|<sub>PERFIL</sub>|<sub>Administrador do Sistema</sub>|<sub>Administrador da Empresa</sub>|<sub>Funcionário</sub>|
+| :---: | :---: | :---: | :---: |
+|<sub>Função</sub>|<sub>Gerenciar o sistema e usuários</sub>|<sub>Tomar decisões estratégicas</sub>|<sub>Executar tarefas operacionais</sub>|
+|<sub>Porcentagem de Usuários</sub>|<sub>2%</sub>|<sub>3%</sub>|<sub>95%</sub>|
+|<sub>Faixa Etária</sub>|<sub>[25, 45]</sub>|<sub>[30, 55]</sub>|<sub>[18, 50]</sub>|
+|<sub>Gênero</sub>|<sub>70% M, 30% F</sub>|<sub>50% M, 50% F</sub>|<sub>40% M, 60% F</sub>|
+|<sub>Afinidade com a Tecnologia</sub>|<sub>90%</sub>|<sub>75%</sub>|<sub>60%</sub>|
+|<sub>Frequência com que usará o sistema</sub>|<sub>Diariamente</sub>|<sub>Frequentemente</sub>|<sub>Ocasionalmente</sub>|
+|<sub>Objetivo ao usar o sistema</sub>|<sub>Configurar e manter o sistema</sub>|<sub>Monitorar relatórios e métricas</sub>|<sub>Realizar tarefas específicas</sub>|
 
 ***Personas:***
 
