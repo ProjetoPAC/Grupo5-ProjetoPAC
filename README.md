@@ -19,19 +19,17 @@ Link do Padlet: https://padlet.com/rafaeltrevizan1/padlet-requisitos-m4hi5xqmfty
 
 ***1.2.  Nome do Sistema***
 
-**SAQA - Sistema Automatizado de Qualidade Alimentar**
+SAQA - Sistema Automatizado de Qualidade Alimentar
 
 ***1.3.  Propósito do Sistema***
 
-Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`nome da empresa`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
+O SAQA é um PAC (Progrma de Auto Controle Digital), ou seja, o objetivo dele é auxiliar indústrias (no nosso caso, alimentícias) a terem um controle melhor da qualidade de sua linha de produção. Resumindo, nosso objetivo é aumentar o controle, organização dentro das indústrias alimentícias e diminuir o tempo que seria gasto com esses ajustes.
 
-O objetivo do sistema `nome do sistema` é .... *<Descrever aqui o objetivo do sistema que será desenvolvido, principais características, benefícios, problemas que o sistema ajudará a resolver, o comportamento principal do sistema, etc.>*
+***1.4.  Público Alvo***
 
-***1.2.  Público Alvo***
+O público alvo do nosso Programa é donos de indústrias alimentícias.
 
-Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes... *<descrever aqui se existir mais interessados e que participarão do desenvolvimento do sistema>*
-
-***1.3. Descrição dos usuários***
+***1.5. Descrição dos usuários***
 
 *<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
 
