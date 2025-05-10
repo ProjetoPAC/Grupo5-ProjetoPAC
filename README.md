@@ -85,16 +85,16 @@ O público alvo do nosso Programa é donos de indústrias alimentícias.
 
 | Código | Categoria      | Descrição                                                                 |
 |--------|----------------|---------------------------------------------------------------------------|
-| RNF1   | Segurança       | Autenticação com senha criptografada (ex: bcrypt).                        |
-| RNF2   | Usabilidade     | Interface responsiva e compatível com dispositivos móveis.               |
-| RNF3   | Desempenho      | Tempo de resposta inferior a 3 segundos em condições normais.            |
-| RNF4   | Escalabilidade  | Suporte a múltiplas unidades e usuários sem reconfiguração.              |
-| RNF5   | Legal           | Conformidade com a LGPD.                                                 |
-| RNF6   | Confiabilidade  | Disponibilidade mínima de 99% e mecanismo de retry em falhas.            |
-| RNF7   | Integração      | Integração via REST com JSON e autenticação segura.                      |
-| RNF8   | Backup          | Backups diários com retenção mínima de 90 dias e restauração rápida.     |
-| RNF9   | Testabilidade   | Arquitetura modular com suporte a testes unitários e de integração.      |
-| RNF10  | Documentação    | Manual técnico, tutorial de uso e especificações das APIs.               |
+| **RNF1**  | **Segurança**       | Autenticação com senha criptografada (ex: bcrypt).                        |
+| **RNF2**  | **Usabilidade**     | Interface responsiva e compatível com dispositivos móveis.               |
+| **RNF3**  | **Desempenho**      | Tempo de resposta inferior a 3 segundos em condições normais.            |
+| **RNF4**  | **Escalabilidade**  | Suporte a múltiplas unidades e usuários sem reconfiguração.              |
+| **RNF5**  | **Legal**           | Conformidade com a LGPD.                                                 |
+| **RNF6**  | **Confiabilidade**  | Disponibilidade mínima de 99% e mecanismo de retry em falhas.            |
+| **RNF7**  | **Integraçã**o      | Integração via REST com JSON e autenticação segura.                      |
+| **RNF8**  | **Backup**          | Backups diários com retenção mínima de 90 dias e restauração rápida.     |
+| **RNF9**  | **Testabilidade**  | Arquitetura modular com suporte a testes unitários e de integração.      |
+| **RNF10** | **Documentação**    | Manual técnico, tutorial de uso e especificações das APIs.               |
 
 
 
