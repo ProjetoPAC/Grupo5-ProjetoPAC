@@ -33,12 +33,12 @@ O público alvo do nosso Programa é donos de indústrias alimentícias.
 
 |<sub>PERFIL</sub>|<sub>Administrador do Sistema</sub>|<sub>Administrador da Empresa</sub>|<sub>Funcionário</sub>|
 | :---: | :---: | :---: | :---: |
-|<sub>Função</sub>|<sub>Garantir o funcionamento do sistema</sub>|<sub>Monitorar relatórios e métricas</sub>|<sub>>Realizar tarefas específicas</sub>|
+|<sub>Função</sub>|<sub>Garantir o funcionamento do sistema</sub>|<sub>Monitorar relatórios e métricas</sub>|<sub>Realizar tarefas específicas</sub>|
 |<sub>Porcentagem de Usuários</sub>|<sub>2%</sub>|<sub>3%</sub>|<sub>95%</sub>|
 |<sub>Faixa Etária</sub>|<sub>[25, 45]</sub>|<sub>[30, 55]</sub>|<sub>[18, 50]</sub>|
 |<sub>Gênero</sub>|<sub>70% M, 30% F</sub>|<sub>70% M, 30% F</sub>|<sub>80% M, 20% F</sub>|
 |<sub>Afinidade com a Tecnologia</sub>|<sub>90%</sub>|<sub>75%</sub>|<sub>60%</sub>|
-|<sub>Frequência com que usará o sistema</sub>|<sub>Quando necessário</sub>|<sub>Diáriamente</sub>|<sub>Diáriamente</sub>|
+|<sub>Frequência com que usará o sistema</sub>|<sub>Quando necessário</sub>|<sub>Diariamente</sub>|<sub>Diariamente</sub>|
 
 ***Personas:***
 
