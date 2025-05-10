@@ -83,18 +83,19 @@ O público alvo do nosso Programa é donos de indústrias alimentícias.
 
 ***2.2. Requisitos Não Funcionais***
 
-| Código | Atores        | Funcionalidade                         | Descrição                                                                                   |
-|--------|---------------|----------------------------------------|----------------------------------------------------------------------------------------------|
-| RF1    | Sistema       | Gerenciar produtos e processos         | Permitir o gerenciamento de dados, distinguindo claramente entre produtos e processos.      |
-| RF2    | Sistema       | Automatizar coleta de dados            | Integrar sensores/APIs para coletar dados sem intervenção manual.                           |
-| RF3    | Sistema       | Enviar notificações                    | Notificar usuários diariamente se parâmetros estiverem fora dos limites.                    |
-| RF4    | Sistema       | Integrar com Web Services do governo   | Enviar dados diariamente em formato compatível e com autenticação válida.                   |
-| RF5    | Sistema       | Gerar relatórios                       | Criar relatórios com filtros por período, unidade e métricas.                               |
-| RF6    | Sistema       | Armazenar histórico                    | Manter histórico de todos os relatórios com busca e exportação.                             |
-| RF7    | Administrador | Definir permissões                     | Criar roles de acesso (ex: operador, gerente) com controle sobre módulos do sistema.        |
-| RF8    | Sistema       | Validar integridade dos relatórios     | Usar assinatura digital ou checksum para evitar manipulação de dados.                      |
-| RF9    | Sistema       | Monitorar múltiplas unidades           | Suportar unidades industriais simultâneas com dashboard consolidado.                        |
-| RF10   | Sistema       | Backup automático                      | Realizar backups automáticos em ambientes redundantes com retenção de dados.                |
+| Código | Categoria      | Descrição                                                                 |
+|--------|----------------|---------------------------------------------------------------------------|
+| RNF1   | Segurança       | Autenticação com senha criptografada (ex: bcrypt).                        |
+| RNF2   | Usabilidade     | Interface responsiva e compatível com dispositivos móveis.               |
+| RNF3   | Desempenho      | Tempo de resposta inferior a 3 segundos em condições normais.            |
+| RNF4   | Escalabilidade  | Suporte a múltiplas unidades e usuários sem reconfiguração.              |
+| RNF5   | Legal           | Conformidade com a LGPD.                                                 |
+| RNF6   | Confiabilidade  | Disponibilidade mínima de 99% e mecanismo de retry em falhas.            |
+| RNF7   | Integração      | Integração via REST com JSON e autenticação segura.                      |
+| RNF8   | Backup          | Backups diários com retenção mínima de 90 dias e restauração rápida.     |
+| RNF9   | Testabilidade   | Arquitetura modular com suporte a testes unitários e de integração.      |
+| RNF10  | Documentação    | Manual técnico, tutorial de uso e especificações das APIs.               |
+
 
 
 ***2.3. Perguntas***
