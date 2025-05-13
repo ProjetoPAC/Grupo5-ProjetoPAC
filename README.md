@@ -58,7 +58,7 @@ O público alvo do nosso Programa é donos de indústrias alimentícias.
 
 ***Cenário: Antes***
 
-*<Preencher com o cenário idealizado antes da aplicação do seu sistema.>*
+O cenário antes era de dificuldade em manter a conformidade dos Procedimentos Operacionais, além disso, todos as tarefas eram feitas por humanos manualmente, o que levava a um maior número de erros humanos. Além disso, o trabalho era excessivamente repetitivo e manual, então era dífical manter a motivação da equipe no trabalho.
 
 ***Cenário: Depois***
 
