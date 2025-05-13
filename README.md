@@ -41,8 +41,8 @@ O público alvo do nosso Programa é donos de indústrias alimentícias.
 |<sub>Frequência com que usará o sistema</sub>|<sub>Quando necessário</sub>|<sub>Diariamente</sub>|<sub>Diariamente</sub>|
 
 ***Personas:***
-
-*<Imagem, arquivo (PDF), link com as Personas.>*
+![1](https://github.com/user-attachments/assets/a922d68c-8eb2-452f-b06e-bf67a7e95064)
+![2](https://github.com/user-attachments/assets/7a614170-d567-43e5-be8b-55e9151a8ebb)
 
 ***Análise da situação atual: antes da introdução de sua solução***
 
