@@ -50,7 +50,7 @@ O cenário antes era de dificuldade em manter a conformidade dos Procedimentos O
 
 ***Cenário: Depois***
 
-Com a aplicação a empresa conseguiu manter a equipe motivada, aumentando a produtividade, dimunuindo os erros, por causa da dimunuição de empregados humanos, consequentemente diminuindo os erros humanos. Além disso, também há a facilidade da integração com os web-services do governo, excluindo a necessidade do trabalho manual para isso. A facilidade documental também foi aumentada, porque o sistema possui um banco de dados que consegue fazer relatórios muita mais facilmente.  
+Com a aplicação a empresa conseguiu manter a equipe motivada, houve um aumento da produtividade e eficiência, além da diminuição de erros e mitigação de custos desnecessários. Além disso, nosso sistema trouxe a comodidade da integração com os web-services do governo, evitando a necessidade de trabalho manual para isso. A organização documental foi otimizada, pois o sistema possui um banco de dados capaz de gerar relatórios de forma automatizada.  
 
 ## 2. Documentos gerais no repositório
 
