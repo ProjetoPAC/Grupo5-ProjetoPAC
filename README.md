@@ -44,18 +44,6 @@ O público alvo do nosso Programa é donos de indústrias alimentícias.
 ![1](https://github.com/user-attachments/assets/a922d68c-8eb2-452f-b06e-bf67a7e95064)
 ![2](https://github.com/user-attachments/assets/7a614170-d567-43e5-be8b-55e9151a8ebb)
 
-***Análise da situação atual: antes da introdução de sua solução***
-
-*`1. O que as pessoas fazem?`*
-*`2. Quais os artefatos envolvidos?`*
-*`3. O que elas precisam saber?`*
-
-***Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:***
-
-*`1. O que as pessoas fazem?`*
-*`2. Quais os artefatos envolvidos?`*
-*`3. O que elas precisam saber?`*
-
 ***Cenário: Antes***
 
 O cenário antes era de dificuldade em manter a conformidade dos Procedimentos Operacionais, além disso, todos as tarefas eram feitas por humanos manualmente, o que levava a um maior número de erros humanos. Além disso, o trabalho era excessivamente repetitivo e manual, então era dífical manter a motivação da equipe no trabalho.
