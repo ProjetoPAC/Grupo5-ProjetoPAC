@@ -56,33 +56,33 @@ Com a aplicação a empresa conseguiu manter a equipe motivada, houve um aumento
 
 ***2.1. Requisitos Funcionais***
 
-| **Código** | **Descrição** |
-|------------|---------------|
-| **RF1**    | O Sistema deve permitir o gerenciamento de dados de produtos e processos, identificando claramente cada categoria (produto/processo) em interfaces e relatórios. |
-| **RF2**    | O Sistema deve automatizar a coleta de dados do processo industrial, por meio de integração com sensores/APIs de máquinas, sem intervenção manual. |
-| **RF3**    | O Sistema deve enviar notificações para usuários cadastrados, diariamente, caso parâmetros da produção estejam dentro dos limites pré-definidos. |
-| **RF4**    | O Sistema deve enviar dados para webservices do governo, diariamente, em formato compatível e com autenticação válida. |
-| **RF5**    | O Sistema deve gerar relatórios de parâmetros dos processos, com filtros por período, unidade industrial e métricas críticas. |
-| **RF6**    | O Sistema deve armazenar histórico de todos os relatórios gerados, com capacidade de busca e exportação para análise posterior. |
-| **RF7**    | O Administrador deve definir permissões para usuários do sistema, através de roles (ex: operador, gerente) e acesso a módulos específicos. |
-| **RF8**    | O Sistema deve validar a integridade de parâmetros dos relatórios, usando assinatura digital ou checksum para evitar manipulação. |
-| **RF9**    | O Sistema deve monitorar simultaneamente múltiplas unidades industriais, consolidando dados em um dashboard único. |
-| **RF10**   | O Sistema deve garantir backup automático do histórico de dados e relatórios, em ambientes redundantes (cloud/local) com política de retenção. |
+| **Código** | **Descrição** | **Prioridades**
+|------------|---------------| ---------------
+| **RF1**    | O Sistema deve permitir o gerenciamento de dados de produtos e processos, identificando claramente cada categoria (produto/processo) em interfaces e relatórios. | M 
+| **RF2**    | O Sistema deve automatizar a coleta de dados do processo industrial, por meio de integração com sensores/APIs de máquinas, sem intervenção manual. | M
+| **RF3**    | O Sistema deve enviar notificações para usuários cadastrados, diariamente, caso parâmetros da produção estejam dentro dos limites pré-definidos. |  S
+| **RF4**    | O Sistema deve enviar dados para webservices do governo, diariamente, em formato compatível e com autenticação válida. | M
+| **RF5**    | O Sistema deve gerar relatórios de parâmetros dos processos, com filtros por período, unidade industrial e métricas críticas. | M
+| **RF6**    | O Sistema deve armazenar histórico de todos os relatórios gerados, com capacidade de busca e exportação para análise posterior. | S
+| **RF7**    | O Administrador deve definir permissões para usuários do sistema, através de roles (ex: operador, gerente) e acesso a módulos específicos. | M
+| **RF8**    | O Sistema deve validar a integridade de parâmetros dos relatórios, usando assinatura digital ou checksum para evitar manipulação. | S
+| **RF9**    | O Sistema deve monitorar simultaneamente múltiplas unidades industriais, consolidando dados em um dashboard único. | C
+| **RF10**   | O Sistema deve garantir backup automático do histórico de dados e relatórios, em ambientes redundantes (cloud/local) com política de retenção. | M
 
 ***2.2. Requisitos Não Funcionais***
 
-| Código | Categoria      | Descrição                                                                 |
-|--------|----------------|---------------------------------------------------------------------------|
-| **RNF1**  | **Segurança**       | Autenticação com senha criptografada (ex: bcrypt).                        |
-| **RNF2**  | **Usabilidade**     | Interface responsiva e compatível com dispositivos móveis.               |
-| **RNF3**  | **Desempenho**      | Tempo de resposta inferior a 3 segundos em condições normais.            |
-| **RNF4**  | **Escalabilidade**  | Suporte a múltiplas unidades e usuários sem reconfiguração.              |
-| **RNF5**  | **Legal**           | Conformidade com a LGPD.                                                 |
-| **RNF6**  | **Confiabilidade**  | Disponibilidade mínima de 99% e mecanismo de retry em falhas.            |
-| **RNF7**  | **Integraçã**o      | Integração via REST com JSON e autenticação segura.                      |
-| **RNF8**  | **Backup**          | Backups diários com retenção mínima de 90 dias e restauração rápida.     |
-| **RNF9**  | **Testabilidade**  | Arquitetura modular com suporte a testes unitários e de integração.      |
-| **RNF10** | **Documentação**    | Manual técnico, tutorial de uso e especificações das APIs.               |
+| Código | Categoria      | Descrição                                                                 | Prioridades
+|--------|----------------|---------------------------------------------------------------------------|-------------
+| **RNF1**  | **Segurança**       | Autenticação com senha criptografada (ex: bcrypt).                        | M 
+| **RNF2**  | **Usabilidade**     | Interface responsiva e compatível com dispositivos móveis.               | C
+| **RNF3**  | **Desempenho**      | Tempo de resposta inferior a 3 segundos em condições normais.            | M
+| **RNF4**  | **Escalabilidade**  | Suporte a múltiplas unidades e usuários sem reconfiguração.              | M
+| **RNF5**  | **Legal**           | Conformidade com a LGPD.                                                 | M
+| **RNF6**  | **Confiabilidade**  | Disponibilidade mínima de 99% e mecanismo de retry em falhas.            | M
+| **RNF7**  | **Integraçã**o      | Integração via REST com JSON e autenticação segura.                      | M
+| **RNF8**  | **Backup**          | Backups diários com retenção mínima de 90 dias e restauração rápida.     | M
+| **RNF9**  | **Testabilidade**  | Arquitetura modular com suporte a testes unitários e de integração.      | S
+| **RNF10** | **Documentação**    | Manual técnico, tutorial de uso e especificações das APIs.               | S
 
 
 
