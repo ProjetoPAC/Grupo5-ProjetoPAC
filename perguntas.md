@@ -68,6 +68,9 @@ Estas perguntas são elaboradas para uma entrevista com stakeholders, usuários 
 
 ## Dicas para a Entrevista
 
+!!!! é necessário fazer uma validação da prioridade dos requisitos na entrevista
+
+
 - Priorize perguntas abertas para estimular o entrevistado a descrever necessidades reais.
 - Use exemplos práticos para facilitar o entendimento (ex: “Como seria um dia típico usando o sistema?”).
 - Anote sugestões espontâneas, críticas e problemas relatados — muitas vezes viram requisitos importantes!
