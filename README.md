@@ -23,11 +23,11 @@ SAQA - Sistema Automatizado de Qualidade Alimentar
 
 ***1.3.  Propósito do Sistema***
 
-O SAQA é um PAC (Progrma de Auto Controle Digital), ou seja, o objetivo dele é auxiliar indústrias (no nosso caso, alimentícias) a terem um controle melhor da qualidade de sua linha de produção. Resumindo, nosso objetivo é aumentar o controle, organização dentro das indústrias alimentícias e diminuir o tempo que seria gasto com esses ajustes.
+O SAQA é um PAC (Programa de Auto Controle Digital), ou seja, o objetivo dele é auxiliar indústrias (no nosso caso, alimentícias) a terem um controle melhor da qualidade de sua linha de produção. Resumindo, nosso objetivo é aumentar o controle e organização dentro das indústrias alimentícias, otimizando o tempo gasto com essas atividades.
 
 ***1.4.  Público Alvo***
 
-O público alvo do nosso Programa é donos de indústrias alimentícias.
+O público alvo do nosso Programa são executivos de indústrias alimentícias.
 
 ***1.5. Descrição dos usuários***
 
