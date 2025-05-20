@@ -73,16 +73,16 @@ Com a aplicação a empresa conseguiu manter a equipe motivada, houve um aumento
 
 | Código | Categoria      | Descrição                                                                 | Depende de | Prioridades |
 |--------|----------------|---------------------------------------------------------------------------|------------|-------------|
-| **RNF1**  | **Segurança**       | Autenticação com senha criptografada (ex: bcrypt).                |     RNF2, RNF5, RNF6          | M 
-| **RNF2**  | **Usabilidade**     | Interface responsiva e compatível com dispositivos móveis.        |               | C
-| **RNF3**  | **Desempenho**      | Tempo de resposta inferior a 3 segundos em condições normais.     |     RNF2, RNF5, RNF6, RNF8         | M
-| **RNF4**  | **Escalabilidade**  | Suporte a múltiplas unidades e usuários sem reconfiguração.       |     RNF2, RNF5, RNF6, RNF8          | M
-| **RNF5**  | **Legal**           | Conformidade com a LGPD.                                          |      RNF2         | M
-| **RNF6**  | **Confiabilidade**  | Disponibilidade mínima de 99% e mecanismo de retry em falhas.     |      RNF2, RNF5         | M
-| **RNF7**  | **Integraçã**o      | Integração via REST com JSON e autenticação segura.               |               | M
-| **RNF8**  | **Backup**          | Backups diários com retenção mínima de 90 dias e restauração rápida. |     RNF2, RNF5, RNF6       | M
-| **RNF9**  | **Testabilidade**  | Arquitetura modular com suporte a testes unitários e de integração. |     RNF2, RNF4, RNF6, RNF8          | S
-| **RNF10** | **Documentação**    | Manual técnico, tutorial de uso e especificações das APIs. |       RNF2, RNF5, RNF6, RNF8                | S
+| **RNF1**  | **Segurança**       | Autenticação com senha criptografada (ex: bcrypt).                |     RNF2, RNF5, RNF6          | **M** 
+| **RNF2**  | **Usabilidade**     | Interface responsiva e compatível com dispositivos móveis.        |               | **C**
+| **RNF3**  | **Desempenho**      | Tempo de resposta inferior a 3 segundos em condições normais.     |     RNF2, RNF5, RNF6, RNF8         | **M**
+| **RNF4**  | **Escalabilidade**  | Suporte a múltiplas unidades e usuários sem reconfiguração.       |     RNF2, RNF5, RNF6, RNF8          | **M**
+| **RNF5**  | **Legal**           | Conformidade com a LGPD.                                          |      RNF2         | **M**
+| **RNF6**  | **Confiabilidade**  | Disponibilidade mínima de 99% e mecanismo de retry em falhas.     |      RNF2, RNF5         | **M**
+| **RNF7**  | **Integraçã**o      | Integração via REST com JSON e autenticação segura.               |               | **M**
+| **RNF8**  | **Backup**          | Backups diários com retenção mínima de 90 dias e restauração rápida. |     RNF2, RNF5, RNF6       | **M**
+| **RNF9**  | **Testabilidade**  | Arquitetura modular com suporte a testes unitários e de integração. |     RNF2, RNF4, RNF6, RNF8          | **S**
+| **RNF10** | **Documentação**    | Manual técnico, tutorial de uso e especificações das APIs. |       RNF2, RNF5, RNF6, RNF8                | **S**
 
 
 
