@@ -96,7 +96,18 @@ Com a aplicação a empresa conseguiu manter a equipe motivada, houve um aumento
 
 ***2.5. Histórias do Usuário***
 
-*<Imagem, arquivo (PDF), link com as Histórias de Usuário.>*
+| **ID**  | **Quem**                      | **O que**                                                                                                 | **Por quê**                                                                                                  |
+|---------|-------------------------------|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| HU1     | Como usuário                  | Quero gerenciar dados de produtos e processos                                                             | Para facilitar o controle e análise de informações em interfaces e relatórios                                |
+| HU2     | Como gestor industrial        | Quero que o sistema colete automaticamente dados do processo industrial via integração com sensores       | Para evitar a intervenção manual e garantir precisão nas informações                                         |
+| HU3     | Como usuário                  | Quero receber notificações diárias se os parâmetros de produção estiverem dentro dos limites definidos    | Para monitorar facilmente a conformidade e agir rapidamente em caso de anomalias                             |
+| HU4     | Como gestor industrial        | Quero que o sistema envie dados diários para webservices do governo, em formato compatível e autenticado  | Para atender exigências legais e garantir a conformidade regulatória                                         |
+| HU5     | Como usuário                  | Quero gerar relatórios de parâmetros dos processos, filtrando por período, unidade e métricas críticas    | Para analisar dados relevantes de forma segmentada e tomar decisões informadas                              |
+| HU6     | Como usuário                  | Quero acessar o histórico dos relatórios com capacidade de busca e exportação                             | Para realizar análises posteriores e auditorias quando necessário                                            |
+| HU7     | Como administrador de sistema | Quero definir permissões de acesso para os usuários, atribuindo roles e módulos específicos               | Para garantir segurança e controle de acesso adequado às informações e funcionalidades do sistema           |
+| HU8     | Como gestor industrial        | Quero que o sistema valide a integridade dos relatórios usando assinatura digital ou checksum             | Para assegurar que os dados não foram manipulados e garantir confiança nas informações                      |
+| HU9     | Como gestor industrial        | Quero monitorar múltiplas unidades industriais simultaneamente                                            | Para obter uma visão completa e rápida do desempenho de todas as unidades                                    |
+| HU10    | Como usuário                  | Quero que o sistema faça backup automático dos dados e relatórios                                         | Para garantir a disponibilidade, segurança e recuperação das informações em caso de falha                   |
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
