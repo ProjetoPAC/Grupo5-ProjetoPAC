@@ -92,7 +92,39 @@ Com a aplicação a empresa conseguiu manter a equipe motivada, houve um aumento
 
 ***2.4. Entrevista***
 
-*<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>*
+| **Pergunta** | **Resposta** |
+|-------------|--------------|
+| Como é realizado atualmente o controle de qualidade na sua indústria? | A maioria das indústrias hoje não tem procedimentos formalizados de controle de qualidade, e o MA está começando a exigir isso. Normalmente, as empresas normalmente têm testes, como um teste laboratorial, olfativo, sensitivo, etc. Porém, a grande maioria não tem um procedimento padrão para isso, e, pior ainda, isso não é documentado, que é justamente o que o MA quer. |
+| Quais são as maiores dificuldades enfrentadas no registro dos procedimentos dos PACs? | Partindo do princípio que 90% das indústrias hoje sequer tem um PAC, e, os 10% que tem, tem em planilhas impressas, no papel mesmo. No caso do entrevistado, no começo da indústria eram 93 planilhas que precisavam ser preenchidas manualmente todos os dias. Além desse trabalho todo, a informação do papel você não consegue extrair nada. No papel, acontece até mais erros que acertos. |
+| Com que frequência ocorrem erros humanos ou esquecimentos no processo manual? | No papel, acontece até mais erros que acertos. |
+| Como é feita a integração com órgãos do governo atualmente? Existem dificuldades ou atrasos? | Hoje, quase nenhuma indústria possui uma integração digital com os órgãos do governo. A integração das que têm PAC manual (papel) é com algum fiscal indo presencialmente, porém, mesmo que seja no papel, o mapa de produção de forma digital. |
+| Quais funcionalidades você considera indispensáveis em um sistema de controle de qualidade alimentar? | O software precisa ser prático para operadores, porque muitas vezes o operador pode ser um semi-analfabeto que não vai entender muito bem a tecnologia, então tem que ser fácil e intuitivo. |
+| Você considera importante a geração automática de alertas e relatórios? Por quê? | Importante sim, fundamental talvez não. Alerta é bom no sentido de, por exemplo, alguma verificação foi esquecida antes do dia acabar, aí lançaria uma notificação por push. E o relatório deve ser retirado quando quiser. |
+| O que espera da integração automática com os Web Services do Governo Federal? | Atender a legislação, e o MA quer ter a possibilidade de fiscalizar a empresa sem precisar ir até ela. |
+| Como gostaria que fosse o acesso ao histórico e busca por relatórios antigos? | Um requisito de muita importância, precisa conseguir os relatórios muito facilmente e rapidamente, esse é o objetivo do sistema. |
+| Quais perfis de usuário você enxerga utilizando o sistema? (Administrador, Gerente, Operador, etc.) | Um bom sistema nesse sentido, não deveria se prender a isso, por exemplo, você poderia criar o cargo que quisesse e dar a ele as permissões que você quisesse. Nesse caso, o usuário da aplicação que conseguiria fazer isso tranquilamente, criar cargos conforme sua necessidade. |
+| Que tipo de permissões ou acessos diferentes são necessários para cada perfil? | Como dito anteriormente, você deveria criar como quiser os cargos, e darem como fosse necessário as permissões. |
+| Existe necessidade de treinamento para os usuários? Qual o nível de familiaridade deles com tecnologia? | São usuários com nível de tecnologia muito básico. |
+| Que tipo de notificações são úteis para sua operação diária? | Alertas em caso de necessidade de terminar uma verificação. |
+| Com que frequência você precisa de relatórios de produção e qualidade? | Diário. |
+| Quais filtros e critérios são importantes nos relatórios (ex: período, unidade, parâmetros críticos)? | Depende da necessidade e cada caso do cliente, mas tem que poder filtrar pelas opções que quiser. |
+| Quais sistemas ou máquinas você gostaria de integrar ao SAQA? | O custo de integrar máquinas medidoras é muito alto, para uma empresa pequena, não compensa nem um pouco, compensaria o trabalho manual de colocar na aplicação. Porém, empresas maiores, que possuem um capital maior e um maior mapa de produção, talvez compense. Então, seria outra coisa particular. |
+| Existem APIs, sensores ou outros sistemas já em uso que deveriam ser integrados? | API apenas do governo. |
+| Quais dados devem ser coletados automaticamente, sem intervenção manual? | Vai na mesma linha particular do primeiro item. |
+| Quais preocupações de segurança você tem em relação ao sistema e aos dados? | O sistema tem que garantir que ninguém possa excluir ou alterar dados após que um monitoramento seja feito. Além disso, deve existir um sistema para verificar que, se porventura, alguém alterar ou apagar algum dado, tenho que conseguir saber quem foi. |
+| Como deve ser feita a autenticação de usuários? Alguma preferência por métodos (senha, 2FA, etc.)? | A autenticação deve ser feita da maneira mais prática possível, não é necessário nenhuma autenticação muito maluca por não conter dados tão sensíveis. |
+| Qual o tempo máximo aceitável de indisponibilidade do sistema? | Também outro caso que é particular de cada empresa. Se falar para um negócio pequeno que vai ficar uma hora sem o sistema, tudo certo. Porém, imagina se fosse com uma grande do mercado, como a Nestlé. |
+| Com que frequência você considera adequado realizar backups dos dados? | Diário. |
+| Em caso de falha, qual é o tempo máximo aceitável para restauração do sistema? | Horas. |
+| O sistema deve suportar múltiplas unidades industriais? Como imagina o gerenciamento entre elas? | Seria uma funcionalidade a mais no sistema, porém, para o MA independente de ser o mesmo dono, mesma cidade ou mesmo CNPJ, não pode-se misturar entre dois “polos”. |
+| Os usuários costumam acessar o sistema por desktop, tablet ou celular? | Todos os dispositivos. |
+| Existe a necessidade de uma interface responsiva para dispositivos móveis? | Sim, com certeza. |
+| Existem restrições de conectividade ou locais com acesso à internet limitado? | Hoje, todo lugar tem internet, porém, o sistema tem que conseguir performar seu melhor mesmo com uma pequena banda disponível. |
+| Existem requisitos legais específicos que precisam ser atendidos além da LGPD? | Requisitos do MA. |
+| Como o sistema pode ajudar a garantir a conformidade com essas normas? | O sistema ajuda no sentido de tirar as empresas dos PAC’s de papel, que podem-se perder, rasurar, entre outros. |
+
+
+https://drive.google.com/drive/folders/1iZ17ZPM2bwHytDvZfxwTb5VDQ5ByjceX
 
 ***2.5. Histórias do Usuário***
 
