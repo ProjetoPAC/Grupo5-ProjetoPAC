@@ -154,25 +154,43 @@ https://drive.google.com/drive/folders/1iZ17ZPM2bwHytDvZfxwTb5VDQ5ByjceX
 
 ***2.8. Matrizes de Rastreabilidade***
 
-**Requisitos Funcionais vs. Histórias de Usuário**
-A matriz a seguir demonstra a relação entre cada Requisito Funcional e a História de Usuário que o originou ou que ele satisfaz. Um "**X**" na interseção indica que o requisito e a história estão diretamente relacionados.
+**Requisitos Funcionais vs. Casos de Uso**
 
-| **Requisito Funcional** | **HU1** | **HU2** | **HU3** | **HU4** | **HU5** | **HU6** | **HU7** | **HU8** | **HU9** | **HU10** |
-| :---------------------- | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :------: |
-| **RF1** - Gerenciar dados de produtos e processos | **X** |         |         |         |         |         |         |         |         |          |
-| **RF2** - Automatizar coleta de dados (sensores)   |         | **X** |         |         |         |         |         |         |         |          |
-| **RF3** - Enviar notificações de conformidade      |         |         | **X** |         |         |         |         |         |         |          |
-| **RF4** - Enviar dados para webservices do governo |         |         |         | **X** |         |         |         |         |         |          |
-| **RF5** - Gerar relatórios parametrizados          |         |         |         |         | **X** |         |         |         |         |          |
-| **RF6** - Armazenar histórico de relatórios        |         |         |         |         |         | **X** |         |         |         |          |
-| **RF7** - Definir permissões de usuários (roles)   |         |         |         |         |         |         | **X** |         |         |          |
-| **RF8** - Validar integridade de relatórios        |         |         |         |         |         |         |         | **X** |         |          |
-| **RF9** - Monitorar múltiplas unidades             |         |         |         |         |         |         |         |         | **X** |          |
-| **RF10** - Realizar backup automático              |         |         |         |         |         |         |         |         |         | **X** |
+A matriz indica com um "**X**" quais Casos de Uso são necessários para satisfazer cada Requisito Funcional.
+
+| **Requisito Funcional** | **UC1** | **UC2** | **UC3** | **UC4** | **UC5** | **UC6** | **UC7** |
+| :---------------------- | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| **RF1** - Gerenciar dados de produtos e processos |         |         | **X** |         |         |         | **X** |
+| **RF2** - Automatizar coleta de dados (sensores)   | **X** |         |         |         |         |         |         |
+| **RF3** - Enviar notificações de conformidade      |         | **X** |         |         |         |         |         |
+| **RF4** - Enviar dados para webservices do governo |         |         |         | **X** |         |         |         |
+| **RF5** - Gerar relatórios parametrizados          |         | **X** |         | **X** |         |         |         |
+| **RF6** - Armazenar histórico de relatórios        |         | **X** |         | **X** |         |         |         |
+| **RF7** - Definir permissões de usuários (roles)   |         |         |         |         | **X** | **X** |         |
+| **RF8** - Validar integridade de relatórios        |         |         |         | **X** |         |         |         |
+| **RF9** - Monitorar múltiplas unidades             | **X** | **X** | **X** |         |         |         | **X** |
+| **RF10** - Realizar backup automático              |         |         | **X** | **X** |         |         |         |
+
+
+**Requisitos Não Funcionais vs. Casos de Uso**
+
+| **Requisito Não Funcional** | **UC1** | **UC2** | **UC3** | **UC4** | **UC5** | **UC6** | **UC7** |
+| :--------------------------- | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| **RNF1** - Segurança (Criptografia de senha) |         |         |         |         | **X** |         |         |
+| **RNF2** - Usabilidade (Interface responsiva) | **X** | **X** | **X** | **X** | **X** | **X** | **X** |
+| **RNF3** - Desempenho (Resposta < 3s)       | **X** | **X** | **X** | **X** | **X** | **X** | **X** |
+| **RNF4** - Escalabilidade (Múltiplas unidades) | **X** | **X** | **X** | **X** |         |         | **X** |
+| **RNF5** - Legal (Conformidade com LGPD)    |         |         | **X** |         | **X** | **X** |         |
+| **RNF6** - Confiabilidade (Disponibilidade 99%)| **X** | **X** | **X** | **X** | **X** | **X** | **X** |
+| **RNF7** - Integração (API REST)            | **X** | **X** |         | **X** |         |         |         |
+| **RNF8** - Backup (Diários com retenção)    | **X** |         | **X** | **X** | **X** | **X** | **X** |
+| **RNF9** - Testabilidade (Arquitetura modular)| **X** | **X** | **X** | **X** | **X** | **X** | **X** |
+| **RNF10** - Documentação (Manuais e API)     | **X** | **X** | **X** | **X** | **X** | **X** | **X** |
+
 
 ***2.9. Protótipos***
 
-[Apresentação do nosso protótipo](Mockup-apresentação.pdf)
+🔗[Clique aqui para acessar a apresentação do nosso protótipo!](Mockup-apresentação.pdf)
 
 ## Referências
 
