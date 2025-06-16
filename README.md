@@ -191,12 +191,18 @@ A matriz indica com um "**X**" quais Casos de Uso são necessários para satisfa
 | **RNF10** - Documentação (Manuais e API)     | **X** | **X** | **X** | **X** | **X** | **X** | **X** |
 
 
-***2.9. Protótipos***
+***3.0. Protótipos***
 
 > 🔗[Clique aqui para acessar a apresentação do nosso protótipo!](Mockup-apresentação.pdf)
 
+***3.1. Pitch***
+> 🔗[Clique aqui para conferir nossa apresentação em formato de Pitch!]()
+
 ## Referências
 
-*<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>*
+SOMMERVILLE, Ian. Engenharia de software. 9. ed. São Paulo, SP: Pearson Prentice Hall, 2011.
 
-[1] “Glossário da _USina_”, <_id_doc glossário_>, Versão <_versão_>. Localização: <_localização_>.
+Guedes, T. A. UML 2 – Uma abordagem Prática. 2. ed. São Paulo: Novatec, 2011.
+
+Reinehr, Sheila. Engenharia de requisitos. Disponível em: Minha Biblioteca, Grupo A, 2020.
+
