@@ -154,9 +154,9 @@ https://drive.google.com/drive/folders/1iZ17ZPM2bwHytDvZfxwTb5VDQ5ByjceX
 
 ***2.8. Matrizes de Rastreabilidade***
 
-**Requisitos Funcionais vs. Casos de Uso**
-
 A matriz indica com um "**X**" quais Casos de Uso são necessários para satisfazer cada Requisito Funcional.
+
+**Requisitos Funcionais vs. Casos de Uso**
 
 | **Requisito Funcional** | **UC1** | **UC2** | **UC3** | **UC4** | **UC5** | **UC6** | **UC7** |
 | :---------------------- | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
