@@ -3,7 +3,7 @@
 
 Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Software da UTFPR - Campus Cornélio Procópio. 
 
-Link do Padlet: https://padlet.com/rafaeltrevizan1/padlet-requisitos-m4hi5xqmfty6z5n6
+🔗[Clique aqui para acessar o link do nosso Padlet!](https://padlet.com/rafaeltrevizan1/padlet-requisitos-m4hi5xqmfty6z5n6)
 
 ## 1. Introdução
 
@@ -124,7 +124,7 @@ Com a aplicação a empresa conseguiu manter a equipe motivada, houve um aumento
 | Como o sistema pode ajudar a garantir a conformidade com essas normas? | O sistema ajuda no sentido de tirar as empresas dos PAC’s de papel, que podem-se perder, rasurar, entre outros. |
 
 
-🔗Clique aqui para acessar a gravação da entrevista completa!(https://drive.google.com/drive/folders/1iZ17ZPM2bwHytDvZfxwTb5VDQ5ByjceX)
+🔗[Clique aqui para acessar a gravação da entrevista completa!](https://drive.google.com/drive/folders/1iZ17ZPM2bwHytDvZfxwTb5VDQ5ByjceX)
 
 ***2.5. Histórias do Usuário***
 
