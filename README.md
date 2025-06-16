@@ -150,7 +150,11 @@ https://drive.google.com/drive/folders/1iZ17ZPM2bwHytDvZfxwTb5VDQ5ByjceX
 
 ***2.7. Diagramas de Atividades***
 
-*<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*
+![REGISTRO DO PAC](https://github.com/user-attachments/assets/c0beadbb-1b66-4d79-bc87-384e3796654d)
+
+![diagrama de atividades registro de dados](https://github.com/user-attachments/assets/2dd2fc6b-7ffa-43d7-9259-895eb108a6f7)
+
+
 
 ***2.8. Matrizes de Rastreabilidade***
 
