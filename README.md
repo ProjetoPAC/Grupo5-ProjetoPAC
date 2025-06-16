@@ -45,6 +45,7 @@ O público alvo do nosso Programa são executivos de indústrias alimentícias.
 ![2](https://github.com/user-attachments/assets/7a614170-d567-43e5-be8b-55e9151a8ebb)
 
 ***Cenário: Antes***
+
 O cenário antes era de dificuldade em manter a conformidade dos Procedimentos Operacionais, além disso, todos as tarefas eram feitas por humanos manualmente, o que levava a um maior número de erros humanos. Além disso, o trabalho era excessivamente repetitivo e manual, então era dífical manter a motivação da equipe no trabalho.
 
 ***Cenário: Depois***
@@ -196,13 +197,13 @@ A matriz indica com um "**X**" quais Casos de Uso são necessários para satisfa
 > 🔗[Clique aqui para acessar a apresentação do nosso protótipo!](Mockup-apresentação.pdf)
 
 ***3.1. Pitch***
-> 🔗[Clique aqui para conferir nossa apresentação em formato de Pitch!]()
+> 🔗[Clique aqui para conferir nossa apresentação em formato de Pitch!](PitchSAQA.pdf)
 
 ## Referências
 
-SOMMERVILLE, Ian. Engenharia de software. 9. ed. São Paulo, SP: Pearson Prentice Hall, 2011.
+- SOMMERVILLE, Ian. Engenharia de software. 9. ed. São Paulo, SP: Pearson Prentice Hall, 2011.
 
-Guedes, T. A. UML 2 – Uma abordagem Prática. 2. ed. São Paulo: Novatec, 2011.
+- Guedes, T. A. UML 2 – Uma abordagem Prática. 2. ed. São Paulo: Novatec, 2011.
 
-Reinehr, Sheila. Engenharia de requisitos. Disponível em: Minha Biblioteca, Grupo A, 2020.
+- Reinehr, Sheila. Engenharia de requisitos. Disponível em: Minha Biblioteca, Grupo A, 2020.
 
