@@ -88,7 +88,7 @@ Com a aplicação a empresa conseguiu manter a equipe motivada, houve um aumento
 
 ***2.3. Perguntas***
 
-*Perguntas estão no arquivo "perguntas.md"*
+ _As perguntas se encontram no arquivo [perguntas.md](perguntas.md)!_
 
 ***2.4. Entrevista***
 
@@ -124,7 +124,7 @@ Com a aplicação a empresa conseguiu manter a equipe motivada, houve um aumento
 | Como o sistema pode ajudar a garantir a conformidade com essas normas? | O sistema ajuda no sentido de tirar as empresas dos PAC’s de papel, que podem-se perder, rasurar, entre outros. |
 
 
-https://drive.google.com/drive/folders/1iZ17ZPM2bwHytDvZfxwTb5VDQ5ByjceX
+🔗Clique aqui para acessar a gravação da entrevista completa!(https://drive.google.com/drive/folders/1iZ17ZPM2bwHytDvZfxwTb5VDQ5ByjceX)
 
 ***2.5. Histórias do Usuário***
 
