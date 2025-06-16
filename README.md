@@ -142,17 +142,24 @@ Com a aplicação a empresa conseguiu manter a equipe motivada, houve um aumento
 | HU10    | Como usuário                  | Quero que o sistema faça backup automático dos dados e relatórios                                         | Para garantir a disponibilidade, segurança e recuperação das informações em caso de falha                   |
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
-
-![Imagem do WhatsApp de 2025-06-15 à(s) 23 11 01_8038560c](https://github.com/user-attachments/assets/7418dc78-6af3-4b27-8ecc-7678ab527ea4)
+<div align="center">
+<img src=https://github.com/user-attachments/assets/7418dc78-6af3-4b27-8ecc-7678ab527ea4 alt=Imagem do WhatsApp de 2025-06-15 à(s) 23 11 01_8038560c/>
+ 
 ![Imagem do WhatsApp de 2025-06-15 à(s) 23 10 13_ddcc8a55](https://github.com/user-attachments/assets/b4510143-b860-4b62-9cb9-b523f7a9e1cf)
+
 ![Imagem do WhatsApp de 2025-06-15 à(s) 23 11 11_99643ecc](https://github.com/user-attachments/assets/dee5e144-75c9-4a3f-9746-48ba86ca890a)
+</div>
 
 
 ***2.7. Diagramas de Atividades***
 
-![REGISTRO DO PAC](https://github.com/user-attachments/assets/c0beadbb-1b66-4d79-bc87-384e3796654d)
+<div align="center">
+ <img src=https://github.com/user-attachments/assets/c0beadbb-1b66-4d79-bc87-384e3796654d alt=REGISTRO DO PAC/>
+ 
 ![image](https://github.com/user-attachments/assets/f9aa823b-f6fd-4edc-8e56-051ca079031b)
+
 ![diagrama de atividades registro de dados](https://github.com/user-attachments/assets/2dd2fc6b-7ffa-43d7-9259-895eb108a6f7)
+</div>
 
 
 
