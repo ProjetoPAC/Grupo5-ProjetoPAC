@@ -3,7 +3,7 @@
 
 Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Software da UTFPR - Campus Cornélio Procópio. 
 
-🔗[Clique aqui para acessar o link do nosso Padlet!](https://padlet.com/rafaeltrevizan1/padlet-requisitos-m4hi5xqmfty6z5n6)
+> 🔗[Clique aqui para acessar o link do nosso Padlet!](https://padlet.com/rafaeltrevizan1/padlet-requisitos-m4hi5xqmfty6z5n6)
 
 ## 1. Introdução
 
@@ -45,7 +45,6 @@ O público alvo do nosso Programa são executivos de indústrias alimentícias.
 ![2](https://github.com/user-attachments/assets/7a614170-d567-43e5-be8b-55e9151a8ebb)
 
 ***Cenário: Antes***
-
 O cenário antes era de dificuldade em manter a conformidade dos Procedimentos Operacionais, além disso, todos as tarefas eram feitas por humanos manualmente, o que levava a um maior número de erros humanos. Além disso, o trabalho era excessivamente repetitivo e manual, então era dífical manter a motivação da equipe no trabalho.
 
 ***Cenário: Depois***
@@ -88,7 +87,7 @@ Com a aplicação a empresa conseguiu manter a equipe motivada, houve um aumento
 
 ***2.3. Perguntas***
 
- _As perguntas se encontram no arquivo [perguntas.md](perguntas.md)!_
+ > _As perguntas se encontram no arquivo [perguntas.md](perguntas.md)!_
 
 ***2.4. Entrevista***
 
@@ -124,7 +123,7 @@ Com a aplicação a empresa conseguiu manter a equipe motivada, houve um aumento
 | Como o sistema pode ajudar a garantir a conformidade com essas normas? | O sistema ajuda no sentido de tirar as empresas dos PAC’s de papel, que podem-se perder, rasurar, entre outros. |
 
 
-🔗[Clique aqui para acessar a gravação da entrevista completa!](https://drive.google.com/drive/folders/1iZ17ZPM2bwHytDvZfxwTb5VDQ5ByjceX)
+> 🔗[Clique aqui para acessar a gravação da entrevista completa!](https://drive.google.com/drive/folders/1iZ17ZPM2bwHytDvZfxwTb5VDQ5ByjceX)
 
 ***2.5. Histórias do Usuário***
 
@@ -194,7 +193,7 @@ A matriz indica com um "**X**" quais Casos de Uso são necessários para satisfa
 
 ***2.9. Protótipos***
 
-🔗[Clique aqui para acessar a apresentação do nosso protótipo!](Mockup-apresentação.pdf)
+> 🔗[Clique aqui para acessar a apresentação do nosso protótipo!](Mockup-apresentação.pdf)
 
 ## Referências
 
