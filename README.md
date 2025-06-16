@@ -146,7 +146,6 @@ Com a aplicação a empresa conseguiu manter a equipe motivada, houve um aumento
 <img src=https://github.com/user-attachments/assets/7418dc78-6af3-4b27-8ecc-7678ab527ea4 alt=Imagem do WhatsApp de 2025-06-15 à(s) 23 11 01_8038560c/>
  
 ![Imagem do WhatsApp de 2025-06-15 à(s) 23 10 13_ddcc8a55](https://github.com/user-attachments/assets/b4510143-b860-4b62-9cb9-b523f7a9e1cf)
-
 ![Imagem do WhatsApp de 2025-06-15 à(s) 23 11 11_99643ecc](https://github.com/user-attachments/assets/dee5e144-75c9-4a3f-9746-48ba86ca890a)
 </div>
 
@@ -157,7 +156,6 @@ Com a aplicação a empresa conseguiu manter a equipe motivada, houve um aumento
  <img src=https://github.com/user-attachments/assets/c0beadbb-1b66-4d79-bc87-384e3796654d alt=REGISTRO DO PAC/>
  
 ![image](https://github.com/user-attachments/assets/f9aa823b-f6fd-4edc-8e56-051ca079031b)
-
 ![diagrama de atividades registro de dados](https://github.com/user-attachments/assets/2dd2fc6b-7ffa-43d7-9259-895eb108a6f7)
 </div>
 
@@ -197,6 +195,12 @@ A matriz indica com um "**X**" quais Casos de Uso são necessários para satisfa
 | **RNF8** - Backup (Diários com retenção)    | **X** |         | **X** | **X** | **X** | **X** | **X** |
 | **RNF9** - Testabilidade (Arquitetura modular)| **X** | **X** | **X** | **X** | **X** | **X** | **X** |
 | **RNF10** - Documentação (Manuais e API)     | **X** | **X** | **X** | **X** | **X** | **X** | **X** |
+
+***2.9. Diagrama de Classes***
+<div align="center">
+<img src=https://github.com/user-attachments/assets/b2b3de28-45ea-4191-af9c-0978c7d9fce5 alt="Diagrama de Classes"</img>
+</div>
+
 
 
 ***3.0. Protótipos***
