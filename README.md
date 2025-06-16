@@ -88,7 +88,7 @@ Com a aplicação a empresa conseguiu manter a equipe motivada, houve um aumento
 
 ***2.3. Perguntas***
 
- > _As perguntas se encontram no arquivo [perguntas.md](perguntas.md)!_
+ > As perguntas se encontram no arquivo [perguntas.md](perguntas.md)!
 
 ***2.4. Entrevista***
 
