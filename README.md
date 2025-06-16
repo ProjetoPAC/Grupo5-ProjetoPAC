@@ -143,7 +143,10 @@ https://drive.google.com/drive/folders/1iZ17ZPM2bwHytDvZfxwTb5VDQ5ByjceX
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
-*<Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>*
+![Imagem do WhatsApp de 2025-06-15 à(s) 23 11 01_8038560c](https://github.com/user-attachments/assets/7418dc78-6af3-4b27-8ecc-7678ab527ea4)
+![Imagem do WhatsApp de 2025-06-15 à(s) 23 10 13_ddcc8a55](https://github.com/user-attachments/assets/b4510143-b860-4b62-9cb9-b523f7a9e1cf)
+![Imagem do WhatsApp de 2025-06-15 à(s) 23 11 11_99643ecc](https://github.com/user-attachments/assets/dee5e144-75c9-4a3f-9746-48ba86ca890a)
+
 
 ***2.7. Diagramas de Atividades***
 
