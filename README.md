@@ -154,11 +154,25 @@ https://drive.google.com/drive/folders/1iZ17ZPM2bwHytDvZfxwTb5VDQ5ByjceX
 
 ***2.8. Matrizes de Rastreabilidade***
 
-*<Imagem, arquivo (PDF), link com Matriz de Rastreabilidade.>*
+**Requisitos Funcionais vs. Histórias de Usuário**
+A matriz a seguir demonstra a relação entre cada Requisito Funcional e a História de Usuário que o originou ou que ele satisfaz. Um "**X**" na interseção indica que o requisito e a história estão diretamente relacionados.
+
+| **Requisito Funcional** | **HU1** | **HU2** | **HU3** | **HU4** | **HU5** | **HU6** | **HU7** | **HU8** | **HU9** | **HU10** |
+| :---------------------- | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :------: |
+| **RF1** - Gerenciar dados de produtos e processos | **X** |         |         |         |         |         |         |         |         |          |
+| **RF2** - Automatizar coleta de dados (sensores)   |         | **X** |         |         |         |         |         |         |         |          |
+| **RF3** - Enviar notificações de conformidade      |         |         | **X** |         |         |         |         |         |         |          |
+| **RF4** - Enviar dados para webservices do governo |         |         |         | **X** |         |         |         |         |         |          |
+| **RF5** - Gerar relatórios parametrizados          |         |         |         |         | **X** |         |         |         |         |          |
+| **RF6** - Armazenar histórico de relatórios        |         |         |         |         |         | **X** |         |         |         |          |
+| **RF7** - Definir permissões de usuários (roles)   |         |         |         |         |         |         | **X** |         |         |          |
+| **RF8** - Validar integridade de relatórios        |         |         |         |         |         |         |         | **X** |         |          |
+| **RF9** - Monitorar múltiplas unidades             |         |         |         |         |         |         |         |         | **X** |          |
+| **RF10** - Realizar backup automático              |         |         |         |         |         |         |         |         |         | **X** |
 
 ***2.9. Protótipos***
 
-*<Imagem, arquivo (PDF), link com Protótipo.>*
+[Apresentação do nosso protótipo](Mockup-apresentação.pdf)
 
 ## Referências
 
