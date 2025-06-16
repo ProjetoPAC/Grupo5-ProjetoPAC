@@ -154,7 +154,7 @@ https://drive.google.com/drive/folders/1iZ17ZPM2bwHytDvZfxwTb5VDQ5ByjceX
 
 ***2.8. Matrizes de Rastreabilidade***
 
-A matriz indica com um "**X**" quais Casos de Uso são necessários para satisfazer cada Requisito Funcional.
+A matriz indica com um "**X**" quais Casos de Uso são necessários para satisfazer cada Requisito.
 
 **Requisitos Funcionais vs. Casos de Uso**
 
